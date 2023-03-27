@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 
 <div>
 <a href="https://github.com/Luana-Almeid">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luana-Almeid&show_icons=true&theme=radical&iclude_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luana-Almeid&layout=compact&langs_count=16&theme=radical"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Luana-Almeid&show_icons=true&theme=radical&iclude_all_commits=true&count_private=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luana-Almeid&layout=compact&langs_count=16&theme=radical"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Luana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
